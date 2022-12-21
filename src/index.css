@@ -17,6 +17,11 @@ ul {
   list-style: none;
 }
 
+.active {
+  background: #000;
+  color: red;
+}
+
 .container {
   max-width: 768px;
   margin: auto;
